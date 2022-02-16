@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MathQuiz</string>
+    <string name="Remaining">MathQuiz</string>
+    <string name="CorrectScreen">Good Job!</string>
+    <string name="WrongScreen">Incorrect...Try the next question!</string>
+    <string name="submit">Submit</string>
+    <string name="returnbutton">Click the back button on your Android device to continue.</string>
+</resources>
